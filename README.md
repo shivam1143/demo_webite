@@ -2,5 +2,5 @@
 demo
 this is my first git repository
 <br>
-Auther - Shivam Jha
+Auther - shivam (DPG)
 
